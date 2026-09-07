@@ -2,13 +2,13 @@ about:
   description: "🤖 time travel in the terminal"
   license: MIT
   homepage: 
-  head: 3e2189d
+  head: a08b5cb
   archived: false
   latestVersion: "v1.12.0"
-  collectedAt: 2026-09-07T06:08:08Z
+  collectedAt: 2026-09-07T18:22:18Z
 timeline:
   created: 2019-04-16
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-03-27
 popularity:
   star: 221
@@ -20,13 +20,13 @@ popularity:
   issue: 25
 language:
   C: 3379755
-  Go: 1295415
+  Go: 1299165
   Janet: 124701
   Python: 4647
   Just: 2304
   Shell: 752
   Tape: 160
-totalBytes: 4807734
+totalBytes: 4811484
 recent:
   last30d:
     since: 2026-08-08
@@ -35,7 +35,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 4
   last60d:
     since: 2026-07-09
     release: 0
@@ -43,7 +43,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 4
   last90d:
     since: 2026-06-09
     release: 0
@@ -51,7 +51,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 4
+    commit: 6
   last180d:
     since: 2026-03-11
     release: 1
@@ -59,7 +59,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 56
+    commit: 58
   last360d:
     since: 2025-09-12
     release: 8
@@ -67,7 +67,7 @@ recent:
     openPR: 0
     closedIssue: 6
     openIssue: 1
-    commit: 242
+    commit: 244
   last720d:
     since: 2024-09-17
     release: 21
@@ -75,23 +75,23 @@ recent:
     openPR: 0
     closedIssue: 9
     openIssue: 1
-    commit: 521
+    commit: 523
 total:
   release: 48
   mergedPR: 24
   openPR: 0
   closedIssue: 21
   openIssue: 4
-  commit: 1755
+  commit: 1757
 ---
 path: /home/runner/.x-repo/github.com/cfoust/cy
-collectedAt: 2026-09-07T06:08:10Z
+collectedAt: 2026-09-07T18:22:21Z
 loc:
   Go:
-    code: 58578
-    comments: 4023
-    blanks: 9870
-    files: 384
+    code: 58728
+    comments: 4033
+    blanks: 9883
+    files: 385
   C:
     code: 51544
     comments: 2917
@@ -154,19 +154,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 2785
+    comments: 2787
     blanks: 1496
     files: 102
 total:
-  code: 132315
-  comments: 10266
-  blanks: 14527
-  files: 519
+  code: 132465
+  comments: 10278
+  blanks: 14540
+  files: 520
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:08:12+00:00
+  collectedAt: 2026-09-07T18:22:22+00:00
   platform:
     darwin/arm64:
       name:  cy_1.12.0_darwin_arm64.tar.gz
