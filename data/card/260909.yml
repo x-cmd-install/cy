@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.12.0"
   latestRelease: "v1.12.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:12:13Z
+  collectedAt: 2026-09-09T20:37:49Z
 timeline:
   created: 2019-04-16
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-27
   lastPrerelease: 
 popularity:
-  star: 221
+  star: 222
   watcher: 2
   fork: 9
   release: 48
@@ -89,7 +89,7 @@ total:
   commit: 1757
 ---
 path: /home/runner/.x-repo/github.com/cfoust/cy
-collectedAt: 2026-09-09T06:12:16Z
+collectedAt: 2026-09-09T20:37:52Z
 loc:
   Go:
     code: 58728
