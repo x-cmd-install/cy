@@ -7,7 +7,7 @@
 - **Latest release**: `v1.12.0` (2026-03-27)
 - **Last commit**: 2026-09-07
 - **License**: MIT
-- **Stars**: 221 · **Forks**: 9 · **Open issues**: 25 · **Contributors**: 8
+- **Stars**: 222 · **Forks**: 9 · **Open issues**: 25 · **Contributors**: 8
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/cy> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:12:20Z._
+_Last regenerated: 2026-09-09T20:37:57Z._
