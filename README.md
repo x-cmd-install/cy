@@ -37,22 +37,22 @@ Total: **132,373** lines of code across **404** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 226 · **Forks**: 10 · **Open issues**: 27 · **Contributors**: 8
+- **Stars**: 226 · **Forks**: 10 · **Open issues**: 28 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 24 · **Open PRs**: 0 · **Closed issues**: 21 · **Open issues**: 6 · **Commits**: 1757
+- **Releases**: 48 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 21 · **Open issues**: 7 · **Commits**: 1757
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-08-15 | 0 | 2 | 0 | 0 | 2 | 4 |
-| 90d | 2026-07-16 | 0 | 2 | 0 | 0 | 2 | 4 |
-| last180d | 2026-04-17 | 0 | 3 | 0 | 0 | 2 | 6 |
-| 360d | 2025-10-19 | 8 | 8 | 0 | 6 | 2 | 244 |
-| last720d | 2024-10-24 | 17 | 12 | 0 | 9 | 3 | 451 |
+| 30d | 2026-09-15 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-08-16 | 0 | 2 | 1 | 0 | 3 | 4 |
+| 90d | 2026-07-17 | 0 | 2 | 1 | 0 | 3 | 4 |
+| last180d | 2026-04-18 | 0 | 3 | 1 | 0 | 3 | 6 |
+| 360d | 2025-10-20 | 8 | 8 | 1 | 6 | 3 | 244 |
+| last720d | 2024-10-25 | 17 | 12 | 1 | 9 | 4 | 451 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for cy lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:15:38Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:51:12Z._
