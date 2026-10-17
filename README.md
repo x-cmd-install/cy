@@ -31,37 +31,37 @@ Total: **132,373** lines of code across **404** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.12.0` (2026-03-27)
+- **Latest**: `v1.12.1` (2026-10-16)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 226 · **Forks**: 10 · **Open issues**: 28 · **Contributors**: 8
+- **Stars**: 226 · **Forks**: 10 · **Open issues**: 29 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 21 · **Open issues**: 7 · **Commits**: 1757
+- **Releases**: 49 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 22 · **Open issues**: 7 · **Commits**: 1757
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last60d | 2026-08-17 | 0 | 2 | 1 | 0 | 3 | 4 |
-| 90d | 2026-07-18 | 0 | 2 | 1 | 0 | 3 | 4 |
-| last180d | 2026-04-19 | 0 | 3 | 1 | 0 | 3 | 6 |
-| 360d | 2025-10-21 | 8 | 8 | 1 | 6 | 3 | 244 |
-| last720d | 2024-10-26 | 17 | 11 | 1 | 9 | 4 | 451 |
+| 30d | 2026-09-17 | 1 | 0 | 1 | 1 | 3 | 0 |
+| last60d | 2026-08-18 | 1 | 2 | 1 | 1 | 3 | 4 |
+| 90d | 2026-07-19 | 1 | 2 | 1 | 1 | 3 | 4 |
+| last180d | 2026-04-20 | 1 | 3 | 1 | 1 | 3 | 6 |
+| 360d | 2025-10-22 | 9 | 8 | 1 | 7 | 3 | 244 |
+| last720d | 2024-10-27 | 18 | 11 | 1 | 10 | 4 | 451 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/cfoust/cy/releases/download/v1.12.0/checksums.txt) | 287 B | `other` |
-| [cy_1.12.0_darwin_amd64.tar.gz](https://github.com/cfoust/cy/releases/download/v1.12.0/cy_1.12.0_darwin_amd64.tar.gz) | 9.4 MiB | `native/darwin/x64` |
-| [cy_1.12.0_darwin_arm64.tar.gz](https://github.com/cfoust/cy/releases/download/v1.12.0/cy_1.12.0_darwin_arm64.tar.gz) | 8.8 MiB | `native/darwin/arm64` |
-| [cy_1.12.0_linux_amd64.tar.gz](https://github.com/cfoust/cy/releases/download/v1.12.0/cy_1.12.0_linux_amd64.tar.gz) | 9.3 MiB | `native/linux/x64` |
+| [checksums.txt](https://github.com/cfoust/cy/releases/download/v1.12.1/checksums.txt) | 287 B | `other` |
+| [cy_1.12.1_darwin_amd64.tar.gz](https://github.com/cfoust/cy/releases/download/v1.12.1/cy_1.12.1_darwin_amd64.tar.gz) | 9.5 MiB | `native/darwin/x64` |
+| [cy_1.12.1_darwin_arm64.tar.gz](https://github.com/cfoust/cy/releases/download/v1.12.1/cy_1.12.1_darwin_arm64.tar.gz) | 8.9 MiB | `native/darwin/arm64` |
+| [cy_1.12.1_linux_amd64.tar.gz](https://github.com/cfoust/cy/releases/download/v1.12.1/cy_1.12.1_linux_amd64.tar.gz) | 9.3 MiB | `native/linux/x64` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for cy lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:45:25Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:25:05Z._
