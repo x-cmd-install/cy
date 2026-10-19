@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9776103,
       "digest": "sha256:d8ca301a7257052ca54f136f0461139e1390dfb110e14539b7054b6b47cc5a09",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-07T12:57:14Z",
       "updated_at": "2026-09-07T12:57:15Z",
       "browser_download_url": "https://github.com/cfoust/cy/releases/download/v1.12.1/cy_1.12.1_linux_amd64.tar.gz"
