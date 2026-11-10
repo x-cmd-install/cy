@@ -47,12 +47,12 @@ Total: **132,373** lines of code across **404** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 0 | 1 | 1 | 3 | 0 |
-| last60d | 2026-09-09 | 1 | 0 | 1 | 1 | 3 | 0 |
-| 90d | 2026-08-10 | 1 | 2 | 1 | 1 | 3 | 4 |
-| last180d | 2026-05-12 | 1 | 3 | 1 | 1 | 3 | 6 |
-| 360d | 2025-11-13 | 9 | 8 | 1 | 7 | 3 | 241 |
-| last720d | 2024-11-18 | 16 | 10 | 1 | 8 | 4 | 432 |
+| 30d | 2026-10-11 | 1 | 0 | 1 | 1 | 3 | 0 |
+| last60d | 2026-09-11 | 1 | 0 | 1 | 1 | 3 | 0 |
+| 90d | 2026-08-12 | 1 | 2 | 1 | 1 | 3 | 4 |
+| last180d | 2026-05-14 | 1 | 3 | 1 | 1 | 3 | 6 |
+| 360d | 2025-11-15 | 9 | 7 | 1 | 7 | 3 | 241 |
+| last720d | 2024-11-20 | 16 | 10 | 1 | 8 | 4 | 431 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for cy lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:17:50Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:44:08Z._
